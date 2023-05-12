@@ -51,7 +51,8 @@ This repository contains a list of academic papers, reports, and other resources
 - **[2022]** "Central bank digital currency in an open economy." (Minesso, Massimo Ferrari, Arnaud Mehl, and Livio Stracca) in Journal of Monetary Economics, 127, 54-68.
 - **[2022]** "The effects of central bank digital currencies news on financial markets." (Wang, Yizhi, et al.) in Technological Forecasting and Social Change, 180, 121715.
 - **[2022]** "The Macroeconomic Implications of CBDC: A Review of the Literature." (Infante, Sebastian, et al.)
-- I. Agur, A. Ari, and G. Dell’Ariccia, “Designing central bank digital currencies,” Journal of Monetary Economics, vol. 125, pp. 62–79, 2022, doi: 10.1016/j.jmoneco.2021.05.002.
+- **[2022]** I. Agur, A. Ari, and G. Dell’Ariccia, “Designing central bank digital currencies,” Journal of Monetary Economics, vol. 125, pp. 62–79, doi: 10.1016/j.jmoneco.2021.05.002.
+- **[2020]** Schilling, Linda, Jesús Fernández-Villaverde, and Harald Uhlig. "Central bank digital currency: When price and bank stability collide." NBER Working Paper No. w28237, National Bureau of Economic Research.
 
 
 ## Whitepapers
@@ -78,5 +79,6 @@ This repository contains a list of academic papers, reports, and other resources
 ### Sweden
 - **[2021]** "The Riksbank's e-krona project - summary of the report 3" (Sveriges Riksbank)
 - **[2020]** "The Riksbank’s e-krona project - summary of the report 2" (Sveriges Riksbank)
-- **[2018]** "The Riksbank's e-krona project" (Sveriges Riksbank)
-- **[2017]** "The Riksbank's e-krona project" (Sveriges Riksbank)
+- **[2018]** "The Riksbank's e-krona project - summary of the report 1" (Sveriges Riksbank)
+### Japan
+- **[2019]** "Central Bank Digital Currency: BOJ's Approach" (Bank of Japan)
