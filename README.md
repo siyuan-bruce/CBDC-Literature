@@ -3,6 +3,7 @@ This repository contains a list of academic papers, reports, and other resources
 
 
 ## BIS Papers
+- **[2022]** "CBDCs in emerging market economies." (Chen, S., Goel, T., Qiu, H., & Shim, I.) 
 - **[2022]** "Gaining momentum–Results of the 2021 BIS survey on central bank digital currencies." (Kosse, Anneke, and Ilaria Mattei)
 - **[2021]** "Impending arrival–a sequel to the survey on central bank digital currency." (Boar, Codruta, Henry Holden, and Amber Wadsworth)
 - **[2021]** "Central bank digital currency: the quest for minimally invasive technology." (R. Auer and R. Boehme) Jun. 2021, [Online].
@@ -51,6 +52,7 @@ This repository contains a list of academic papers, reports, and other resources
 - **[2022]** "Central bank digital currency in an open economy." (Minesso, Massimo Ferrari, Arnaud Mehl, and Livio Stracca) in Journal of Monetary Economics, 127, 54-68.
 - **[2022]** "The effects of central bank digital currencies news on financial markets." (Wang, Yizhi, et al.) in Technological Forecasting and Social Change, 180, 121715.
 - **[2022]** "The Macroeconomic Implications of CBDC: A Review of the Literature." (Infante, Sebastian, et al.)
+- **[2022]** "Will Central Bank Digital Currency Disintermediate Banks?." (Whited, T. M., Wu, Y., & Xiao, K.).
 - **[2022]** I. Agur, A. Ari, and G. Dell’Ariccia, “Designing central bank digital currencies,” Journal of Monetary Economics, vol. 125, pp. 62–79, doi: 10.1016/j.jmoneco.2021.05.002.
 - **[2020]** Schilling, Linda, Jesús Fernández-Villaverde, and Harald Uhlig. "Central bank digital currency: When price and bank stability collide." NBER Working Paper No. w28237, National Bureau of Economic Research.
 
